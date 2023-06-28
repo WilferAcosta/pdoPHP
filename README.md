@@ -1,0 +1,2 @@
+# pdoPHP
+ejercicio de ejemplo
